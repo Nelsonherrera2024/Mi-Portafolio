@@ -8,12 +8,12 @@
 ## ¡Hola bienvenidos a mi proyecto del Portafolio ! Aquí algunos pasos realizados:
 ---
 
-### pagina desplegada [aqui](https://nelsonherrera2024.github.io/Mi-Portafolio/) "click aquí")
+### Aquí puedes ver la página desplegada [aqui](https://nelsonherrera2024.github.io/Mi-Portafolio/) "click aquí")
 
 ### Analicemos mi repositorio!
 ---
-### Tenemos distintas ramas en donde he realizado os cambios a la sección deacuerdo al proyecto.
-### Swe incluyeron animaciones y código JavaScript para la verificación de formularios y mucho más
+### Tenemos distintas ramas en donde he realizado los cambios a la sección de acuerdo al proyecto.
+### Se incluyeron animaciones y código JavaScript para la verificación de formularios y mucho más
 ---
-##### Realizado por Nelson Herrera Diaz usando de los templates de [Alura Latam](https://github.com/alura-challenges/challenge-one-portafolio-latam )
+##### Realizado por Nelson Herrera Diaz usando los templates de [Alura Latam](https://github.com/alura-challenges/challenge-one-portafolio-latam )
 
